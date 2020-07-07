@@ -1,0 +1,37 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.page {
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    line-height: 1.5;
+    text-align: justify;
+    max-width: 1000px;
+    margin: auto;
+    color: white;
+    background: rgb(85, 80, 80);
+}
+
+.footer {
+    color: rgba(46, 43, 43, 0.884);
+    margin: 20px auto;
+    padding: 8px;
+    background: rgb(221, 224, 226);
+    text-align: center;
+    outline: 5px solid rgb(29, 29, 29);
+    max-width: 100%;
+}
+
+.mail {
+    margin-bottom: 10px;
+    background-color: green;
+}
+
+.empty {
+    color: white;
+}

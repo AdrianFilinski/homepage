@@ -1,0 +1,53 @@
+.club__trofea {
+    background-color: seashell;
+    color: rgba(46, 43, 43, 0.884);
+    border: 1px solid rgba(179, 221, 166, 0.871);
+    padding: 3px;
+}
+
+.club__trofea--table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.club__trofea--tableCell {
+    border: 1px solid black;
+    background: #ddd;
+    padding: 20px;
+    text-align: center;
+}
+
+.club__trofea--tableHeader {
+    background-color: silver;
+    color: black;
+}
+
+.club__trofea--tableRow {
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgb(100, 157, 241);
+}
+
+.club__trofea--bundes {
+    background-color: black;
+    color: white;
+}
+
+.club__trofea--pokal {
+    background-color: crimson;
+    color: white;
+}
+
+.club__trofea--europa {
+    background-color: gold;
+    color: black;
+}
+
+.club__trofea--supEuropa {
+    background-color: white;
+    color: crimson;
+}
+
+.club__trofea--tableRow:hover {
+    background-color: rgb(213, 216, 39);
+}

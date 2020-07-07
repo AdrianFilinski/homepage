@@ -1,0 +1,48 @@
+.article__mainHeader {
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.article__img {
+    max-width: 100%;
+    border-radius: 20px;
+    margin: 10px auto;
+    display: block;
+}
+
+.article__navMenu {
+    border-radius: 20px;
+    display: block;
+    text-align: center;
+}
+
+.article__nav--paragraph {
+    list-style-type: none;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 8px;
+}
+
+.article__navMenu--button {
+    margin-left: auto;
+    text-align: center;
+    background-color: #b3dda6de;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 9px 25px;
+}
+
+.article__navMenu--button:hover {
+    background-color: #87d8ee;
+}
+
+.article__navMenu--list {
+    display: inline;
+    margin: auto;
+}
+
+.article__navMenu--list:hover {
+    color: burlywood;
+}

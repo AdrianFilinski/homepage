@@ -1,0 +1,27 @@
+.club__history {
+    background-color: rgba(199, 38, 70, 0.836);
+    border: 1px solid rgba(179, 221, 166, 0.871);
+    padding: 3px;
+}
+
+.club__history--paragraph {
+    text-shadow: rgb(121, 114, 89) 1px 0 10px;
+}
+
+.club__stadion {
+    background-color: rgba(39, 101, 218, 0.795);
+    border: 1px solid rgba(179, 221, 166, 0.871);
+    padding: 3px;
+}
+
+.club__stadion--paragraph {
+    text-shadow: rgb(121, 114, 89) 1px 0 10px;
+}
+
+.club__stadion--red {
+    color: red;
+}
+
+.club__stadion--blue {
+    color: blue;
+}
