@@ -1,3 +1,6 @@
-### This is my prototyp website about the most popular German club - FC Bayern Munchen.
+##Genral info
+ This is my prototyp website about the most popular German club - FC Bayern Munchen.
+
+
 
 
