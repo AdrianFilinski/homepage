@@ -6,5 +6,6 @@
 2. CSS
 3. JavaScript
 
-
+## Status
+Project is in progress.
 
