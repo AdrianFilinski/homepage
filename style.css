@@ -26,12 +26,3 @@ html {
     outline: 5px solid rgb(29, 29, 29);
     max-width: 100%;
 }
-
-.mail {
-    margin-bottom: 10px;
-    background-color: green;
-}
-
-.empty {
-    color: white;
-}
