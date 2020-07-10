@@ -1,8 +1,9 @@
-let page = document.querySelector(".page");
-let changeBackground = document.querySelector(".changeBackground");
-let mail = document.querySelector(".mail");
-let empty = document.querySelector(".empty");
+{
+const onChangeButton = document.querySelector (".js-changeButton")
+const page = document.querySelector(".page");
 
-mail.addEventListener("click", () => {
-    empty.innerHTML= '<a href="mailto:bayern@gmail.com">bayern@gmail.com</a>';
+onChangeButton.addEventListener("click", () =>{ 
+    page.classList.toggle("bodyLight")
 })
+
+}
