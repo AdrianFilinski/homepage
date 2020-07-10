@@ -1,8 +1,5 @@
-.mail {
+.contact__mail {
     margin-bottom: 10px;
-    background-color: green;
+    background-color: teal;
 }
 
-.empty {
-    color: white;
-}
